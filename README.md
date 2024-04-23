@@ -5,11 +5,11 @@ a small sample size k-mer tokens generated from the human reference genome, and 
 
 ###  Prerequisites 
 -----------
-Please see the original [SimCSE](https://github.com/princeton-nlp/SimCSE) for installation details. We only share the fine-tuned model as well as our custom tokenizer, which can be found here.
+Please see the original [SimCSE](https://github.com/princeton-nlp/SimCSE) for installation details. The model is currently hosted on Zenodo (DOI: 10.5281/zenodo.11046580).
 
 ### Usage 
 
-Download the model in to a directory then run the following code to get the sentence embeddings:
+Download the model into a directory then run the following code to get the sentence embeddings:
 
 ```python 
 
@@ -30,12 +30,12 @@ with torch.no_grad():
 
 
 ```
-The retrieved embeddings can be utilized as input for a machine learning classifier to perform classification or similarity tasks.
+The retrieved embeddings can be utilized as input for a machine learning classifier to perform classification.
 
 ## Authors 
 -----------
 
-* Written by : 
+* Written by : Mpho Mokoatle, Vukosi Marivate, Darlington Mapiye, Riana Bornman, Vanessa M. Hayes
 * Contact details : u19394277@tuks.co.za
 
 ### References
