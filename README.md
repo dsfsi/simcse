@@ -5,7 +5,7 @@ a small sample size k-mer tokens generated from the human reference genome, and 
 
 ###  Prerequisites 
 -----------
-Please see the original [SimCSE](https://github.com/princeton-nlp/SimCSE) for installation details. The model is currently hosted on Zenodo (DOI: 10.5281/zenodo.11046580).
+Please see the original [SimCSE](https://github.com/princeton-nlp/SimCSE) for installation details. The model will be hosted on Zenodo (DOI: 10.5281/zenodo.11046580).
 
 ### Usage 
 
