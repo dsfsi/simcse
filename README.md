@@ -17,8 +17,8 @@ import torch
 from transformers import AutoModel, AutoTokenizer
 
 # Import trained model and tokenizer
-tokenizer = AutoTokenizer.from_pretrained("/path/to/model/directory/")
-model = AutoModel.from_pretrained("/path/to/model/directory/")
+tokenizer = AutoTokenizer.from_pretrained("dsfsi/simcse-dna")
+model = AutoModel.from_pretrained("dsfsi/simcse-dna")
 
 
 #sentences is your list of n DNA tokens of size 6 
