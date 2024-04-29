@@ -9,7 +9,7 @@ is also available on 🤗 [huggingface](https://huggingface.co/dsfsi/simcse-dna)
 
 ### Usage 
 
-Download the model into a directory or 🤗 [huggingface](https://huggingface.co/dsfsi/simcse-dna) then run the following code to get the sentence embeddings:
+Run the following code to get the sentence embeddings:
 
 ```python 
 
